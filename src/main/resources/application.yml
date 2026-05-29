@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-modulith-observability-primitive-reproducer
+  main:
+    web-application-type: none
+
+management:
+  observations:
+    annotations:
+      enabled: true
+
+logging:
+  level:
+    root: info
