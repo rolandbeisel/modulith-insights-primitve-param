@@ -1,0 +1,1 @@
+# modulith-insights-primitve-param
